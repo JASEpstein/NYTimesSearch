@@ -3,6 +3,10 @@
 
 }
 
+.hidden {
+    display: none;
+}
+
 i {
     margin-right: 10px;
 }
