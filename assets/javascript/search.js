@@ -19,8 +19,8 @@ $(document).click(function(event) {
     });
 
     // Loop through all articles in response and add date to DOM
-    for( var i = 0; i < response.length; i++) {
-
+    for(var i = 0; i < response.length; i++) {
+        
 
 
 
