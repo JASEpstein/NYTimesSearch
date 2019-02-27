@@ -1,3 +1,27 @@
 .card {
-    max-width: 760px;
+    max-width: 1110px;
+
+}
+
+i {
+    margin-right: 10px;
+}
+
+.jumbotron {
+    background-color: #20315a;
+    color: white;
+    max-width: 1110px;
+    text-align: center;
+}
+
+hr {
+    max-width: 1110px;
+}
+
+form {
+    margin: 15px;
+}
+
+.card-header {
+    font-weight: bold;
 }
